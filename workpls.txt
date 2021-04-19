@@ -1,5 +1,3 @@
-/* Azur Blur v0.1 by MurakumoJP / https://github.com/Murakumo-JP /10.06.2020 */
-
 :root{
 	--char-display: none;
 	--Sort-display: none;
